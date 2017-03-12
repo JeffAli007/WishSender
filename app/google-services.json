@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "161644671481",
+    "firebase_url": "https://wishsender.firebaseio.com",
+    "project_id": "wishsender",
+    "storage_bucket": "wishsender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161644671481:android:d238eb5171e2c1fc",
+        "android_client_info": {
+          "package_name": "com.reversebits.projects.app.wishsender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161644671481-inlmcvqp5bnmjeqkjk3th9iiihcp8st7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-Y6yPlP0Vsc2L-nCHVjjiL6ByH3ZpTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
